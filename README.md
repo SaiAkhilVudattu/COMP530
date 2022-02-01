@@ -1,7 +1,7 @@
 # COMP530
-Team
+Team,
 {
 NETID's:
-sv38
+sv38,
 yx48
 }
